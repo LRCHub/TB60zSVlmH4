@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "レクイエム / Kanaria（covered by 棗いつき×藍月なくる）",
+  "base_artist": "棗いつき",
+  "createdAt": "2025-12-01T02:27:57.200452Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ナウシカ・レクイエム (風の谷のナウシカより)",
+      "artist": "YUKA",
+      "has_synced": false,
+      "path": "select/01_ナウシカ・レクイエム_(風の谷のナウシカより)_YUKA.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ナウシカ・レクイエム (「風の谷のナウシカ」より)",
+      "artist": "AUN Jクラシックオーケストラ",
+      "has_synced": false,
+      "path": "select/02_ナウシカ・レクイエム_(「風の谷のナウシカ」より)_AUN_Jクラシックオーケストラ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ナウシカ・レクイエム (「風の谷のナウシカ」より)",
+      "artist": "AUN J Classic Orchestra",
+      "has_synced": false,
+      "path": "select/03_ナウシカ・レクイエム_(「風の谷のナウシカ」より)_AUN_J_Classic_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "レクイエム",
+      "artist": "Bloodthirsty Butchers",
+      "has_synced": false,
+      "path": "select/04_レクイエム_Bloodthirsty_Butchers.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ナウシカ・レクイエム",
+      "artist": "AUN J Classic Orchestra",
+      "has_synced": false,
+      "path": "select/05_ナウシカ・レクイエム_AUN_J_Classic_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "-レクイエム・オブ・レッド-",
+      "artist": "angela",
+      "has_synced": false,
+      "path": "select/06_-レクイエム・オブ・レッド-_angela.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ナウシカ・レクイエム",
+      "artist": "All That Jazz feat. Cosmic Home",
+      "has_synced": false,
+      "path": "select/07_ナウシカ・レクイエム_All_That_Jazz_feat._Cosmic_Home.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ナウシカ・レクイエム - Nausika Rekuiemu",
+      "artist": "All That Jazz",
+      "has_synced": false,
+      "path": "select/08_ナウシカ・レクイエム_-_Nausika_Rekuiemu_All_That_Jazz.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "レクイエム",
+      "artist": "ヒプノシスマイク -D.R.B- (Buster Bros!!!), ヒプノシスマイク -D.R.B- (山田三郎)",
+      "has_synced": true,
+      "path": "select/09_レクイエム_ヒプノシスマイク_-D.R.B-_(Buster_Bros!!!),_ヒプノシスマイク_-D.R.B-_(山田三郎).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "レクイエム",
+      "artist": "THE BACK HORN",
+      "has_synced": true,
+      "path": "select/10_レクイエム_THE_BACK_HORN.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "鎮魂歌 -レクイエム-",
+      "artist": "カスタマイZ",
+      "has_synced": true,
+      "path": "select/11_鎮魂歌_-レクイエム-_カスタマイZ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "鎮魂歌 -レクイエム- TV Size",
+      "artist": "カスタマイZ",
+      "has_synced": false,
+      "path": "select/12_鎮魂歌_-レクイエム-_TV_Size_カスタマイZ.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "-レクイエム･オブ･レッド-",
+      "artist": "angela",
+      "has_synced": false,
+      "path": "select/13_-レクイエム・オブ・レッド-_angela.txt"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "レクイエム / Kanaria（covered by 棗いつき×藍月なくる）",
+      "artist": "棗いつき",
+      "has_synced": false,
+      "path": "select/pl_レクイエム___Kanaria(covered_by_棗いつき×藍月なくる)_棗いつき.txt"
+    }
+  ]
+}
